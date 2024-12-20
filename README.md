@@ -26,27 +26,115 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+Below are the steps used in the ticketing lifecycle.
+---
+
+## 1. Creating Tickets
+1.start this lab by creating a ticket and signing in as a agent to work the ticket,in this case
+  i used Chase as the first agent. 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tBlwbFG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+  
+---
+  
+2. open the ticket and started setting it up.
+<ul>
+  <li>priority emergency</li>
+  <li>department= corp. admin</li>
+  <li>assign ticket to chase{myself in this case}</li>
+  <li>SLA plan= choose SEV-A</li> 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2wN3TPe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+---
+
+3. After setting up the ticket i worked on it, talked to the client
+  <p>as though it was in real life working as a desk help agent.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ifBsoGB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1.  created the ticket as katty.</p>
+
+
+---
+
+
+4. After all that set up i started working the ticket as i said is always best to talk in the phone to have a better understanding of the proble, and be able to make a corect assesment of the problem.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/bRr5AYv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+---
+
+
+5. went back and forth with the client resolved the ticket and closed it.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/lBmkURi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- The above screenshot shows a ticket closing
+
+---
+
+
+6. After setting up the ticket i worked on it, talked to the client
+  <p>as though it was in real life working as a desk help agent.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ifBsoGB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+---
+
+
+7.Set Properties to all the tickets; do SEV-A (SysAdmins last), observe ticket becomes inaccessible
+Switch to admin panel and assign yourself View-access to Sys Admins
+Switch to agent panel and observe the escalated ticket
+Observe that you can no longer make changes to it
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/chYlXkt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+---
+
+
+3. After setting up the ticket i worked on it, talked to the client
+  <p>as though it was in real life working as a desk help agent.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ifBsoGB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
